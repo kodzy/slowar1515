@@ -1,0 +1,91 @@
+	<!-- Silver Tokens -->
+	<monster name="amazon(raid)" file="raidtoken/amazon(raid).xml"/>
+	<monster name="ancient scarab(raid)" file="raidtoken/ancient scarab(raid).xml"/>
+	<monster name="badger(raid)" file="raidtoken/badger(raid).xml"/>
+	<monster name="banshee(raid)" file="raidtoken/banshee(raid).xml"/>
+	<monster name="barbarian bloodwalker(raid)" file="raidtoken/barbarian bloodwalker(raid).xml"/>
+	<monster name="barbarian brutetamer(raid)" file="raidtoken/barbarian brutetamer(raid).xml"/>
+	<monster name="barbarian headsplitter(raid)" file="raidtoken/barbarian headsplitter(raid).xml"/>
+	<monster name="barbarian skullhunter(raid)" file="raidtoken/barbarian skullhunter(raid).xml"/>
+	<monster name="bat(raid)" file="raidtoken/bat(raid).xml"/>
+	<monster name="bear(raid)" file="raidtoken/bear(raid).xml"/>
+	<monster name="blue djinn(raid)" file="raidtoken/blue djinn(raid).xml"/>
+	<monster name="bonebeast(raid)" file="raidtoken/bonebeast(raid).xml"/>
+	<monster name="bonelord(raid)" file="raidtoken/bonelord(raid).xml"/>
+	<monster name="cave rat(raid)" file="raidtoken/cave rat(raid).xml"/>
+	<monster name="clubarc the plunderer(raid)" file="raidtoken/clubarc the plunderer(raid).xml"/>
+	<monster name="cobra(raid)" file="raidtoken/cobra(raid).xml"/>
+	<monster name="crypt shambler(raid)" file="raidtoken/crypt shambler(raid).xml"/>
+	<monster name="cyclops(raid)" file="raidtoken/cyclops(raid).xml"/>
+	<monster name="demon skeleton(raid)" file="raidtoken/demon skeleton(raid).xml"/>
+	<monster name="demon(raid)" file="raidtoken/demon(raid).xml"/>
+	<monster name="dragon hatchling(raid)" file="raidtoken/dragon hatchling(raid).xml"/>
+	<monster name="dragon lord hatchling(raid)" file="raidtoken/dragon lord hatchling(raid).xml"/>
+	<monster name="dragon lord(raid)" file="raidtoken/dragon lord(raid).xml"/>
+	<monster name="dragon(raid)" file="raidtoken/dragon(raid).xml"/>
+	<monster name="draptor(raid)" file="raidtoken/draptor(raid).xml"/>
+	<monster name="efreet(raid)" file="raidtoken/efreet(raid).xml"/>
+	<monster name="elder bonelord(raid)" file="raidtoken/elder bonelord(raid).xml"/>
+	<monster name="elf arcanist(raid)" file="raidtoken/elf arcanist(raid).xml"/>
+	<monster name="elf scout(raid)" file="raidtoken/elf scout(raid).xml"/>
+	<monster name="elf(raid)" file="raidtoken/elf(raid).xml"/>
+	<monster name="flamingo(raid)" file="raidtoken/flamingo(raid).xml"/>
+	<monster name="gargoyle(raid)" file="raidtoken/gargoyle(raid).xml"/>
+	<monster name="ghost(raid)" file="raidtoken/ghost(raid).xml"/>
+	<monster name="ghoul(raid)" file="raidtoken/ghoul(raid).xml"/>
+	<monster name="giant spider(raid)" file="raidtoken/giant spider(raid).xml"/>
+	<monster name="gnarlhound(raid)" file="raidtoken/gnarlhound(raid).xml"/>
+	<monster name="goblin assassin(raid)" file="raidtoken/goblin assassin(raid).xml"/>
+	<monster name="goblin leader(raid)" file="raidtoken/goblin leader(raid).xml"/>
+	<monster name="goblin scavenger(raid)" file="raidtoken/goblin scavenger(raid).xml"/>
+	<monster name="goblin(raid)" file="raidtoken/goblin(raid).xml"/>
+	<monster name="grand mother foulscale(raid)" file="raidtoken/grand mother foulscale(raid).xml"/>
+	<monster name="green djinn(raid)" file="raidtoken/green djinn(raid).xml"/>
+	<monster name="hunter(raid)" file="raidtoken/hunter(raid).xml"/>
+	<monster name="ice golem(raid)" file="raidtoken/ice golem(raid).xml"/>
+	<monster name="ice witch(raid)" file="raidtoken/ice witch(raid).xml"/>
+	<monster name="kongra(raid)" file="raidtoken/kongra(raid).xml"/>
+	<monster name="lancer beetle(raid)" file="raidtoken/lancer beetle(raid).xml"/>
+	<monster name="larva(raid)" file="raidtoken/larva(raid).xml"/>
+	<monster name="lich(raid)" file="raidtoken/lich(raid).xml"/>
+    <monster name="lion(raid)" file="raidtoken/lion(raid).xml"/>
+	<monster name="lizard sentinel(raid)" file="raidtoken/lizard sentinel(raid).xml"/>
+	<monster name="lizard snakecharmer(raid)" file="raidtoken/lizard snakecharmer(raid).xml"/>
+	<monster name="lizard templar(raid)" file="raidtoken/lizard templar(raid).xml"/>
+	<monster name="marid(raid)" file="raidtoken/marid(raid).xml"/>
+	<monster name="minotaur archer(raid)" file="raidtoken/minotaur archer(raid).xml"/>
+    <monster name="minotaur guard(raid)" file="raidtoken/minotaur guard(raid).xml"/>
+	<monster name="minotaur invader(raid)" file="raidtoken/minotaur invader(raid).xml"/>
+	<monster name="minotaur mage(raid)" file="raidtoken/minotaur mage(raid).xml"/>
+	<monster name="monk(raid)" file="raidtoken/monk(raid).xml"/>
+	<monster name="mummy(raid)" file="raidtoken/mummy(raid).xml"/>
+	<monster name="necromancer(raid)" file="raidtoken/necromancer(raid).xml"/>
+    <monster name="nomad(raid)" file="raidtoken/nomad(raid).xml"/>
+	<monster name="orc berserker(raid)" file="raidtoken/orc berserker(raid).xml"/>
+	<monster name="orc leader(raid)" file="raidtoken/orc leader(raid).xml"/>
+	<monster name="orc marauder(raid)" file="raidtoken/orc marauder(raid).xml"/>
+	<monster name="orc rider(raid)" file="raidtoken/orc rider(raid).xml"/>
+	<monster name="orc shaman(raid)" file="raidtoken/orc shaman(raid).xml"/>
+    <monster name="orc spearman(raid)" file="raidtoken/orc spearman(raid).xml"/>
+	<monster name="orc warlord(raid)" file="raidtoken/orc warlord(raid).xml"/>
+	<monster name="orc warrior(raid)" file="raidtoken/orc warrior(raid).xml"/>
+	<monster name="orc(raid)" file="raidtoken/orc(raid).xml"/>
+	<monster name="pirate buccaneer(raid)" file="raidtoken/pirate buccaneer(raid).xml"/>
+	<monster name="pirate corsair(raid)" file="raidtoken/pirate corsair(raid).xml"/>
+	<monster name="pirate cutthroat(raid)" file="raidtoken/pirate cutthroat(raid).xml"/>
+	<monster name="pirate marauder(raid)" file="raidtoken/pirate marauder(raid).xml"/>
+	<monster name="priestess(raid)" file="raidtoken/priestess(raid).xml"/>
+	<monster name="quara constrictor scout(raid)" file="raidtoken/quara constrictor scout(raid).xml"/>
+	<monster name="quara hydromancer scout(raid)" file="raidtoken/quara hydromancer scout(raid).xml"/>
+	<monster name="quara mantassin scout(raid)" file="raidtoken/quara mantassin scout(raid).xml"/>
+	<monster name="quara pincher scout(raid)" file="raidtoken/quara pincher scout(raid).xml"/>
+	<monster name="quara predator scout(raid)" file="raidtoken/quara predator scout(raid).xml"/>
+	<monster name="rat(raid)" file="raidtoken/rat(raid).xml"/>
+	<monster name="scarab(raid)" file="raidtoken/scarab(raid).xml"/>
+	<monster name="serpent spawn(raid)" file="raidtoken/serpent spawn(raid).xml"/>
+	<monster name="skeleton(raid)" file="raidtoken/skeleton(raid).xml"/>
+	<monster name="skunk(raid)" file="raidtoken/skunk(raid).xml"/>
+	<monster name="stalker(raid)" file="raidtoken/stalker(raid).xml"/>
+	<monster name="terramite(raid)" file="raidtoken/terramite(raid).xml"/>
+	<monster name="smuggler(raid)" file="raidtoken/smuggler(raid).xml"/>
+	<monster name="terror bird(raid)" file="raidtoken/terror bird(raid).xml"/>
